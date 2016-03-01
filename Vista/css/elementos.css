@@ -1,0 +1,19 @@
+/* 
+    Document   : elementos
+    Created on : 4/06/2013, 11:12:31 AM
+    Author     : JohnnyAlexander
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#diversidadColombia{    
+    border: 1px solid #000000;
+    border: 1px;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    padding-top: 120px;
+    padding-left: 70%;    
+    z-index: 2;
+}
+
